@@ -1,0 +1,6 @@
+{
+  "appId": "com.medad.ai",
+  "appName": "مِداد",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false }
+}
